@@ -1,1 +1,1 @@
-And again, we are dealing with the Python tutorial.
+And again, we are dealing with the advanced Python tutorial.
